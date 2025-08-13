@@ -1,0 +1,54 @@
+/* Estilo base */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+/* Centraliza e limita o conteúdo */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Títulos principais */
+.titulo {
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+/* Subtítulos */
+h2 {
+    color: #3498db;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Parágrafos */
+.paragrafo {
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+/* Código destacado */
+code {
+    background: #eee;
+    padding: 2px 5px;
+    border-radius: 4px;
+    font-family: monospace;
+}
+
+/* Lista */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 6px;
+}
